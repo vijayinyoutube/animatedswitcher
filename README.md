@@ -18,12 +18,7 @@
 
 ## App
 
-This is a WhatsApp clone app built using Flutter.
-
 Check out the video tutorial   👉 : https://youtu.be/DRoBJGgQPKs
-
-
-
 
 To know more awesome content about Flutter., 
 
