@@ -8,7 +8,7 @@
 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/58719230/92991933-906da300-f504-11ea-9ff3-b76607f8b9f4.png" width="100%">
+<img src="https://user-images.githubusercontent.com/58719230/99930271-765b0700-2d76-11eb-8bf2-c9d533fb40a7.png" width="100%">
 </p>
 
 ## Flutter
@@ -33,9 +33,9 @@ Visit my channel 👉 : https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ
 
 ## Sample Results
 
-Languages | English | Tamil |
+Languages | #1 | #2 |
 --- | --- | --- |
-Images | <img src="https://user-images.githubusercontent.com/58719230/99151490-924d1180-26c1-11eb-85a4-aa6efd2a89ce.png" > | <img src="https://user-images.githubusercontent.com/58719230/99151496-9a0cb600-26c1-11eb-8075-7b3deacb908b.png"> |
+Images | <img src="https://user-images.githubusercontent.com/58719230/99930048-af46ac00-2d75-11eb-84a8-0a8a092af43e.png" > | <img src="https://user-images.githubusercontent.com/58719230/99930053-ba99d780-2d75-11eb-9138-0151d33d6507.png"> |
 
 
 ## License
